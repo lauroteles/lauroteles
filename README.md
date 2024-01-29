@@ -18,8 +18,9 @@
   
 
 </div>
-
 #
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro-teles-0a66aba5/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenno-sullivan-662372185/)
+###
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/brenno-sullivan-662372185/](https://www.linkedin.com/in/lauro-teles-0a66aba5/)https://www.linkedin.com/in/lauro-teles-0a66aba5/)
-
+![Snake animation](https://github.comlauroteles/lauroteles/blob/output/github-contribution-grid-snake.svg)
