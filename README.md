@@ -8,6 +8,10 @@
 <div style="display: inline_block"><br>
   
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
           
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  
@@ -19,9 +23,7 @@
 
 </div>
 #
-[https://www.linkedin.com/in/lauro-teles-0a66aba5
-
-
+[https://www.linkedin.com/in/lauro-teles-0a66aba5](https://www.linkedin.com/in/lauro-teles-0a66aba5)
 
 ###
 
