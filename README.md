@@ -26,11 +26,8 @@
 <div style="display: inline_block"><br>
   
   <a href="https://www.linkedin.com/in/lauro-teles-0a66aba5">
-    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/linkedin
-/linkedin-original.svg" />
+    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
-  
-  <!-- Outros ícones aqui -->
 
 ###
 
