@@ -31,5 +31,5 @@
   </a>
 
 ###
-https://lauroteles-projetos.streamlit.app/
+
 ![Snake animation](https://github.com/lauroteles/lauroteles/blob/output/github-contribution-grid-snake.svg)
