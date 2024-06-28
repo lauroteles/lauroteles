@@ -21,12 +21,12 @@
   
 
 <div style="display: inline_block"><br>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   <img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
-  <img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
     <img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" />
+      <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
   
   <a href="https://www.linkedin.com/in/lauro-teles-0a66aba5">
