@@ -4,7 +4,8 @@
 ## 📈 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/lauroteles">
-    <img height="180em" src="https://streak-stats.demolab.com?user=lauroteles&theme=dracula&hide_border=false" alt="GitHub Streak Stats"/>
+   <img height="180em" src="https://streak-stats.demolab.com?user=lauroteles&theme=dracula&hide_border=false" alt="GitHub Streak Stats"/>
+
   </a>
 </div>
 🌐 Conecte-se Comigo
