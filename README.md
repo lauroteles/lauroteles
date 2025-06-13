@@ -36,13 +36,6 @@
   <p><strong>AWS Certified Developer – Associate</strong></p>
 </div>
 
-<!-- 📈 Estatísticas do GitHub -->
-<h2 align="center">📈 Estatísticas do GitHub</h2>
-<div align="center">
-  <a href="https://github.com/lauroteles">
-    <img height="180em" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=lauroteles)](https://git.io/streak-stats)" alt="GitHub Streak Stats"/>
-  </a>
-</div>
 
 <!-- 🌐 Conecte-se Comigo -->
 <h2 align="center">🌐 Conecte-se Comigo</h2>
