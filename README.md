@@ -31,6 +31,7 @@
 <!-- 📜 Certificações -->
 <h2 align="center">📜 Certificações</h2>
 <div align="center">
+  <a href="https://www.credly.com/badges/1752e560-e029-42d4-a32f-70e0f089324f">
   <img height="70" src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" title="AWS Certified Developer – Associate"/>
   <p><strong>AWS Certified Developer – Associate</strong></p>
 </div>
