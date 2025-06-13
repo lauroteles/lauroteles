@@ -28,11 +28,18 @@
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django" title="Django"/>
 </div>
 
+<!-- 📜 Certificações -->
+<h2 align="center">📜 Certificações</h2>
+<div align="center">
+  <img height="70" src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Developer-Associate_512x512.02d6d68f8f174bce002b2ec2a1455e4cbd3d3944.png" alt="AWS Certified Developer – Associate" title="AWS Certified Developer – Associate"/>
+  <p><strong>AWS Certified Developer – Associate</strong></p>
+</div>
+
 <!-- 📈 Estatísticas do GitHub -->
 <h2 align="center">📈 Estatísticas do GitHub</h2>
 <div align="center">
   <a href="https://github.com/lauroteles">
-    <img height="180em" src="https://streak-stats.demolab.com?user=lauroteles&theme=dracula&hide_border=false" alt="GitHub Streak Stats"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lauroteles&theme=dracula&hide_border=false" alt="GitHub Streak Stats"/>
   </a>
 </div>
 
