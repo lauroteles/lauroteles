@@ -22,8 +22,8 @@
   <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" title="Spring"/>
   <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" alt="Maven" title="Maven"/>
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas"/>
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original-wordmark.svg" alt="Streamlit" title="Streamlit"/>
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" title="Terraform"/>
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original-wordmark.svg" alt="Github Actions" title="Github Actions"/>
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original-wordmark.svg" alt="Django REST" title="Django REST"/>
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django" title="Django"/>
 </div>
