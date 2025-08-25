@@ -6,8 +6,11 @@
   </p>
 
   <a href="https://github.com/lauroteles">
-![Lauro Teles GitHub stats](https://github-readme-stats.vercel.app/api?username=lauroteles&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false)
-
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=lauroteles&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false" 
+  alt="GitHub Stats" 
+  height="145"
+/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauroteles&theme=dracula&hide_border=false&layout=compact"/>
   </a>
 </div>
