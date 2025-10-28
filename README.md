@@ -18,12 +18,12 @@
 <!-- 🛠️ Habilidades -->
 <h2 align="center">🛠️ Habilidades</h2>
 <div align="center">
-  <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" title="PostgreSQL"/>
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" title="PostgreSQL"/>
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="AWS" title="AWS"/>
-  <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" title="Java"/>
-  <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" title="Spring"/>
-  <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" alt="Maven" title="Maven"/>
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" title="Java"/>
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" title="Spring"/>
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" title="Maven"/>
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" title="Terraform"/>
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original-wordmark.svg" alt="Github Actions" title="Github Actions"/>
